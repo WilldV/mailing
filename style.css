@@ -1,0 +1,133 @@
+.contentV{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+}
+.content{
+    padding-top: 10px;
+    width: 660px;
+    display: flex;
+    border-style: solid;
+    border-color: #005DB8;
+    border-bottom-style: none;
+    flex-flow: column;
+    align-items: center;
+    border-radius:18px;
+}
+.contentC{
+    height: 100%;
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    padding-top: 70px;
+}
+#venom{
+    width: 80%;
+    border-radius: 10px;
+}
+
+.titulo{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+    border-style: solid;
+    border-radius: 10px;
+}
+.lordDicko{
+    width: 90%;
+    border-radius: 50px;
+}
+
+.contentH{
+    width: 660px;
+    height: 100%;
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.modulo{
+    width: 43%;
+    height: 100%;
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    background-color: #005DB8;
+    border-radius: 20px;
+}
+.coach{
+    display: flex;
+    width: 30%;
+    flex-flow: column nowrap;
+    align-items: center;
+    padding: 15px;
+}
+#contentCoach{
+    background-color: #005DB8;
+    margin-top: 15px;
+    width: 660px;
+}
+.piePagina{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    width: 600px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: justify;
+
+}
+.contentP{
+    width: 34%;
+    height: 80%;
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    margin: 15px;
+    background-color: #005DB8;
+    border-radius: 20px;
+    padding: 15px;
+}
+.tCoach{
+    margin: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+    border-style: solid;
+    border-radius: 10px;
+}
+#contentCoach{
+    width: 660px;
+}
+.imgModulo{
+    width: 60%;
+}
+.texto{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    text-align: justify;
+    margin: 15px;
+}
+.telefono{
+    width: 30px;
+}
+
+.logo{
+    width: 230px;
+    margin: 10px;
+}
+#nTelefono{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+#pie{
+    width: 665px;
+    background-color: #0a51cc;
+    border-bottom-left-radius: 18px;
+    border-bottom-right-radius: 18px;
+}
+.textoP{
+    font-size: 15px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
